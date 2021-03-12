@@ -535,7 +535,9 @@ i.fa{
 #footer  a{
     color:#e20d0d;
 }
-
+#footer  span  a:hover{
+    text-decoration: underline;
+}
 
 
 /* ===================== */
